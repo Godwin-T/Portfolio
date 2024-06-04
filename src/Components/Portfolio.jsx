@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Customer Retention System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built an AI system that leverages machine learning to predict customer churn and automatically sends personalized emails to retain at-risk customers. ",
+    url: "https://github.com/Godwin-T/Customer-retention",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Employee Attrition Prediction",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to building a sytem to predict predict employee attrition, enabling proactive measures to retain talent and reduce turnover costs.",
+    url: "https://github.com/Godwin-T/Attrition-Prediction",
   },
   {
-    title: "My Resume Site",
+    title: "Weather Forecast System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a weather forecast project using machine learning algorithms and deployed it using flask api. Demonstrates my expertise in data analysis and model deployment.",
+    url: "https://github.com/Godwin-T/Weather-Forecast",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Kitchenware Classifier",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a kitchen utensils image classification system using Convolutional Neural Networks (CNNs) and deployed it with Docker and Kubernetes (K8s). Showcases my skills in machine learning, containerization, and scalable deployment.",
+    url: "https://github.com/Godwin-T/Kitchen-Ware-Project",
   },
 ];
 
